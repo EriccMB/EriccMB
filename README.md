@@ -1,6 +1,4 @@
-- ✌ Olá Mundo! Eu sou Eric, tenho 16 anos
-
-- 😄 Atualmente estou estudando HTML, CSS, JavaScript e Python
+- ✌ Olá Mundo!
 
 <div align="left">
   <a href="https://github.com/EriccMB">
